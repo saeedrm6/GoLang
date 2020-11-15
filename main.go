@@ -2,6 +2,7 @@ package main
 
 import (
 	"first/printer"
+	"first/structures"
 	"first/variables"
 )
 
@@ -17,4 +18,6 @@ func main() {
 	variables.Expression()
 	variables.Pointers()
 
+	// Data Structures
+	structures.Maps()
 }
