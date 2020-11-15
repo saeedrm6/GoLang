@@ -2,7 +2,7 @@ package variables
 
 import "fmt"
 
-// متغیر هایی که میخوایی یه دونه یه دونه مقدار بگیرند
+// set values to your variables when you want to increase them step by step from zero value
 
 const (
 	water = iota

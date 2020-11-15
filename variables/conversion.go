@@ -30,5 +30,5 @@ func Converstion() {
 	fmt.Println(var6)
 }
 
-// محاسبات float هیچ وقت امن نیستند در شرط ها
+// calculating floats are never secure in if conditions
 // IEEE754

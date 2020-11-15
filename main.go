@@ -15,5 +15,6 @@ func main() {
 	variables.Aliasing()
 	variables.Iota()
 	variables.Expression()
+	variables.Pointers()
 
 }

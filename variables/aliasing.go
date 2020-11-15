@@ -9,6 +9,5 @@ func Aliasing() {
 	var f floatsaeed = 1.24456
 	fmt.Printf("f has value %v and type %T", f, f)
 
-
-	// نکته : دو تایئ متفاوت رو نمیتوان در شرط ها بررسی کرد حتی اگر مشابه اش ساخته باشی
+	// Note : you cant compare different variables with non equeal data type even your new type is same of other variable data type
 }
