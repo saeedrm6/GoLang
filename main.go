@@ -31,5 +31,6 @@ func main() {
 	//loopconditions.Infinite()
 	loopconditions.ForEachRange()
 	loopconditions.ContinueBreak()
+	loopconditions.IfElse()
 
 }
