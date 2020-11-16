@@ -4,6 +4,7 @@ import (
 	"first/printer"
 	"first/structures"
 	"first/variables"
+	"first/loopconditions"
 )
 
 func main() {
@@ -23,4 +24,7 @@ func main() {
 	structures.Arrays()
 	structures.Slices()
 	structures.Types()
+
+	// Loop & Conditions
+	loopconditions.For()
 }
