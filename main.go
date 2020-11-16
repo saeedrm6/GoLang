@@ -20,4 +20,6 @@ func main() {
 
 	// Data Structures
 	structures.Maps()
+	structures.Arrays()
+	structures.Slices()
 }
