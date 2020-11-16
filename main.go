@@ -28,6 +28,7 @@ func main() {
 	// Loop & Conditions
 	loopconditions.For()
 	loopconditions.While()
-	loopconditions.Infinite()
+	//loopconditions.Infinite()
+	loopconditions.ForEachRange()
 
 }
