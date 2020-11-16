@@ -27,4 +27,5 @@ func main() {
 
 	// Loop & Conditions
 	loopconditions.For()
+	loopconditions.While()
 }
