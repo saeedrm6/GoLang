@@ -44,13 +44,13 @@ func Slices() {
 	*/
 
 	// For
-	for key, value := range s {
-		fmt.Println(key, value)
+	for i := 0; i < len(s); i++ {
+		fmt.Println(s[i])
 	}
 
 	// Range
-	for i := 0; i < len(s); i++ {
-		fmt.Println(s[i])
+	for key, value := range s {
+		fmt.Println(key, value)
 	}
 
 }

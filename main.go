@@ -22,4 +22,5 @@ func main() {
 	structures.Maps()
 	structures.Arrays()
 	structures.Slices()
+	structures.Types()
 }
