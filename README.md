@@ -30,6 +30,8 @@
     <li>Infinite</li>
     <li>ForEachRange</li>
     <li>ContinueBreak</li>
+    <li>If&Else</li>
+    <li>Switches</li>
 </ul>
 
 <hr>

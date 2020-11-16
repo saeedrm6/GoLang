@@ -32,5 +32,6 @@ func main() {
 	loopconditions.ForEachRange()
 	loopconditions.ContinueBreak()
 	loopconditions.IfElse()
+	loopconditions.Switches()
 
 }
