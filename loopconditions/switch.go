@@ -8,7 +8,7 @@ func Switches() {
 	case 1:
 		fmt.Println("Monday")
 		break
-	case 2:
+	case 2, 3:
 		fmt.Println("two")
 		fmt.Println("another two")
 		break

@@ -5,6 +5,7 @@ import (
 	"first/structures"
 	"first/variables"
 	"first/loopconditions"
+	"first/oo_approach"
 )
 
 func main() {
@@ -33,5 +34,9 @@ func main() {
 	loopconditions.ContinueBreak()
 	loopconditions.IfElse()
 	loopconditions.Switches()
+
+	// Object Oriented vs Golang Approach
+	oo_approach.Help()
+	oo_approach.Methods()
 
 }
