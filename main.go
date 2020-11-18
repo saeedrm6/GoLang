@@ -38,5 +38,7 @@ func main() {
 	// Object Oriented vs Golang Approach
 	oo_approach.Help()
 	oo_approach.Methods()
+	oo_approach.Embedding()
+	oo_approach.Encapsulation()
 
 }
