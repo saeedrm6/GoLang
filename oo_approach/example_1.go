@@ -25,6 +25,9 @@ func (id NationalID) isValidNationalCard(nID NationalID) bool {
 				}
 			*/
 
+			/*
+				Second Method :
+			 */
 			_, err := strconv.Atoi(string(value))
 			if err != nil {
 				return false

@@ -41,5 +41,6 @@ func main() {
 	oo_approach.Embedding()
 	oo_approach.Encapsulation()
 	oo_approach.Example1()
+	oo_approach.Example2()
 
 }
