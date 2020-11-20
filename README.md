@@ -1,4 +1,4 @@
-<h1>Go Lang Tutorial</h1>
+<h1>GoLang Tutorial</h1>
 
 <b>Packages</b>
 <ul>
@@ -32,6 +32,15 @@
     <li>ContinueBreak</li>
     <li>If&Else</li>
     <li>Switches</li>
+</ul>
+<hr>
+<b>Object Oriented vs Golang Approach</b>
+<ul>
+    <li>Type struct</li>
+    <li>Methods</li>
+    <li>Embedding</li>
+    <li>Encapsulation</li>
+    <li>Example 1 - National ID</li>
 </ul>
 
 <hr>
