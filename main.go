@@ -43,5 +43,6 @@ func main() {
 	oo_approach.Example1()
 	oo_approach.Example2()
 	oo_approach.Example3()
+	oo_approach.Pointer_And_Value_Receiver()
 
 }
