@@ -1,11 +1,12 @@
 package main
 
 import (
+	"first/concurrency"
+	"first/loopconditions"
+	"first/oo_approach"
 	"first/printer"
 	"first/structures"
 	"first/variables"
-	"first/loopconditions"
-	"first/oo_approach"
 )
 
 func main() {
@@ -44,5 +45,9 @@ func main() {
 	oo_approach.Example2()
 	oo_approach.Example3()
 	oo_approach.Pointer_And_Value_Receiver()
+
+	// Concurrency
+	concurrency.Goroutine_WaitGroup()
+	concurrency.Goroutine_sleep()
 
 }

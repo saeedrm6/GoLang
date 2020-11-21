@@ -8,6 +8,8 @@ import (
 /*
 	Pointer Receiver vs Value Receiver
 	you can pass pointer to functions and receive them only with one determine
+	if you are going to use this, your inputs in func start with (*) ,
+	and your calling functions passed variable with (&)
 */
 
 type Vertex struct {
