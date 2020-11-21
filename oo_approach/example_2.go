@@ -75,5 +75,5 @@ func (id NationalID_new) isCheckSumValid() bool {
 
 func Example2() {
 	var test NationalID_new = "0120456788"
-	fmt.Printf("My National ID %s is Valid : %t", test, test.isValidNationalCard2())
+	fmt.Printf("My National ID %s is Valid : %t\n", test, test.isValidNationalCard2())
 }

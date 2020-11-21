@@ -41,5 +41,5 @@ func (id NationalID) isValidNationalCard(nID NationalID) bool {
 
 func Example1() {
 	var test NationalID = "012-456789"
-	fmt.Printf("My National ID %s is Valid : %t", test, test.isValidNationalCard(test))
+	fmt.Printf("My National ID %s is Valid : %t\n", test, test.isValidNationalCard(test))
 }
