@@ -7,6 +7,7 @@ import (
 	"first/printer"
 	"first/structures"
 	"first/variables"
+	"first/interfaces"
 )
 
 func main() {
@@ -49,5 +50,11 @@ func main() {
 	// Concurrency
 	concurrency.Goroutine_WaitGroup()
 	concurrency.Goroutine_sleep()
+	concurrency.Channels()
+
+	// Interface
+	interfaces.Defines()
+	interfaces.Example_1()
+
 
 }

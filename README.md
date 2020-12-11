@@ -1,5 +1,12 @@
 <h1>GoLang Tutorial</h1>
 
+<hr>
+<h5>GOPATH and WORKSPACE</h5>
+<p>1- define workspace with GOPATH</p>
+<p>2- make 3 folders in GOPATH (src - bin - pkg)</p>
+<hr>
+
+
 <b>Packages</b>
 <ul>
     <li>printer/*</li>
