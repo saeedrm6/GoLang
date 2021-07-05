@@ -55,6 +55,7 @@ func main() {
 	// Interface
 	interfaces.Defines()
 	interfaces.Example_1()
+	interfaces.Example_2()
 
 
 }
